@@ -1,0 +1,30 @@
+
+html{
+	font-family: sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#generatedText{
+	width: 60%;
+	height: 100%;
+	
+	overflow: scroll;
+	position: fixed;
+	padding: 25px 25px;
+	top: 0%;
+	left: 0%;
+	/*font-family: 'Gothic A1', sans-serif;*/
+	font-size: 11pt;
+	font-weight: bold;
+	line-height: 1.6;
+	word-break: keep-all;
+}
+
+
+
+
+
+
