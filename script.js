@@ -31,7 +31,7 @@ function prepareString(result){
 function setup(){
 	noCanvas();
 	genTextDom = select("#generatedText");
-    loadStrings('test_short.txt', prepareString);
+    loadStrings('test.txt', prepareString);
 }
 
 function draw(){
